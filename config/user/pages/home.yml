@@ -13,7 +13,7 @@ categories:
     sites:
       - name: 资源访问中心
         url: https://webvpn.whut.edu.cn/
-        icon: fas fa-network-wired
+        icon: far fa-network-wired
         description: 武汉理工大学资源访问门户
       - name: 小雅
         url: https://whut.ai-augmented.com/app/jx-web/mycourse
