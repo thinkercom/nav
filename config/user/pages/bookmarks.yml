@@ -1,0 +1,665 @@
+# 自动生成的书签配置文件
+# 由bookmark-processor.js生成于 2025-11-17T01:28:02.661Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+categories:
+  - name: 根目录书签
+    icon: fas fa-star
+    path:
+      - 根目录书签
+    sites:
+      - name: 网址导航
+        url: http://www.ubfgho.com/
+        icon: fas fa-link
+        description: ""
+      - name: 百度搜索
+        url: http://baidu.bfxitong.com/
+        icon: fas fa-link
+        description: ""
+      - name: 谷歌账号注册
+        url: https://www.zaofaka.com/orderquery?orderid=zfk250914131616645541&manual=1
+        icon: fas fa-link
+        description: ""
+      - name: 布尔维奇的谷歌Play – Telegram
+        url: https://t.me/s/Googledde
+        icon: fas fa-link
+        description: ""
+      - name: 小雅
+        url: https://whut.ai-augmented.com/app/jx-web/mycourse
+        icon: fas fa-link
+        description: ""
+      - name: 资源访问控制系统 - 资源站点
+        url: https://webvpn.whut.edu.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 通义
+        url: https://www.tongyi.com/
+        icon: fas fa-link
+        description: ""
+      - name: KITTI
+        url: https://www.cvlibs.net/datasets/kitti/
+        icon: fas fa-link
+        description: ""
+      - name: 菜鸟教程
+        url: https://www.runoob.com/
+        icon: fas fa-link
+        description: ""
+      - name: 紫光
+        url: https://www.szlogicmatrix.com/wiki/zh/fpga-arm/GM-3568JHF/Introduction/ch01-About-GM-3568JHF.html#_2-%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8
+        icon: fas fa-link
+        description: ""
+      - name: vpn
+        url: https://mihomoparty.net/sparkle/
+        icon: fas fa-link
+        description: ""
+      - name: 火影爱好者
+        url: https://www.huoyingahz.com/
+        icon: fas fa-link
+        description: ""
+      - name: 图片生成链接
+        url: https://imgur.com/
+        icon: fas fa-link
+        description: ""
+      - name: 紫光同创论坛-逻辑矩阵技术社区
+        url: https://www.szlogicmatrix.com/
+        icon: fas fa-link
+        description: ""
+      - name: AIC
+        url: https://www.aicomp.cn/tracks/tracks-1
+        icon: fas fa-link
+        description: ""
+      - name: 抠图
+        url: https://picwish.cn/remove-background
+        icon: fas fa-link
+        description: ""
+      - name: 视频转动图
+        url: https://www.apowersoft.cn/video-to-gif-online
+        icon: fas fa-link
+        description: ""
+      - name: 在线免费文字转语音 - TTSMaker
+        url: https://ttsmaker.com/zh-cn
+        icon: fas fa-link
+        description: ""
+      - name: 3d模型
+        url: https://www.meshy.ai/workspace
+        icon: fas fa-link
+        description: ""
+      - name: Xpert
+        url: https://xpert.bytedance.com/operation/xpert/exam/entry
+        icon: fas fa-link
+        description: ""
+      - name: english
+        url: https://www.youtube.com/@ariannitalagringa
+        icon: fab fa-youtube
+        description: ""
+      - name: 谷歌学术Google 学术搜索
+        url: https://scholar.google.com/?hl=zh-CN&as_sdt=0,5
+        icon: fab fa-google
+        description: ""
+      - name: WeDevote Bible｜Chinese Bible Software and Devotional Platform｜Original・Audio Bible・Reading Plan・Devotional・Translation Comparison
+        url: https://wd.bible/en
+        icon: fas fa-link
+        description: ""
+  - name: 已导入
+    icon: fas fa-folder
+    path:
+      - 已导入
+    subcategories:
+      - name: 新建文件夹
+        icon: fas fa-folder
+        path:
+          - 已导入
+          - 新建文件夹
+        sites:
+          - name: PaperFree官网-论文查重_论文检测_免费论文查重检测系统_论文降重
+            url: https://www.paperfree.cn/
+            icon: fas fa-link
+            description: ""
+      - name: Mozilla Firefox
+        icon: fas fa-folder
+        path:
+          - 已导入
+          - Mozilla Firefox
+        sites:
+          - name: 获取帮助
+            url: https://support.mozilla.org/products/firefox
+            icon: fas fa-link
+            description: ""
+          - name: 定制 Firefox
+            url: https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize
+            icon: fas fa-link
+            description: ""
+          - name: 参与进来
+            url: https://www.mozilla.org/contribute/
+            icon: fas fa-link
+            description: ""
+          - name: 关于我们
+            url: https://www.mozilla.org/about/
+            icon: fas fa-link
+            description: ""
+    sites:
+      - name: 腾讯软件中心-海量软件高速下载
+        url: https://pc.qq.com/
+        icon: fas fa-link
+        description: ""
+      - name: MATLAB 函数 - MATLAB &amp; Simulink - MathWorks 中国
+        url: https://ww2.mathworks.cn/help/stateflow/matlab-functions.html
+        icon: fas fa-link
+        description: ""
+      - name: AIchatOS
+        url: https://chat18.aichatos.xyz/#/chat/1710488448045
+        icon: fas fa-link
+        description: ""
+  - name: 收藏夹栏
+    icon: fas fa-folder
+    path:
+      - 收藏夹栏
+    subcategories:
+      - name: 工具
+        icon: fas fa-folder
+        path:
+          - 收藏夹栏
+          - 工具
+        sites:
+          - name: 讯飞星火认知大模型-AI大语言模型-星火大模型-科大讯飞
+            url: https://xinghuo.xfyun.cn/
+            icon: fas fa-link
+            description: ""
+          - name: 学科网
+            url: https://www.zxxk.com/
+            icon: fas fa-link
+            description: ""
+          - name: 第一试卷网
+            url: https://www.shijuan1.com/
+            icon: fas fa-link
+            description: ""
+          - name: 免费字体下载网站
+            url: https://zfont.cn/?t=5&p=1
+            icon: fas fa-link
+            description: ""
+          - name: 清华大学镜像站
+            url: https://mirrors.tuna.tsinghua.edu.cn/
+            icon: fas fa-link
+            description: ""
+          - name: Index of /
+            url: http://models.gazebosim.org/
+            icon: fas fa-link
+            description: ""
+          - name: enhance.pho.to/zh/
+            url: https://enhance.pho.to/zh/
+            icon: fas fa-link
+            description: ""
+          - name: 在线升级图像和照片
+            url: https://icons8.com/upscaler
+            icon: fas fa-link
+            description: ""
+          - name: 腾讯元器
+            url: https://yuanqi.tencent.com/agent-shop
+            icon: fas fa-link
+            description: ""
+      - name: 深度学习
+        icon: fas fa-folder
+        path:
+          - 收藏夹栏
+          - 深度学习
+        sites:
+          - name: Bohrium
+            url: https://bohrium.dp.tech/
+            icon: fas fa-link
+            description: ""
+          - name: Hiplot (ORG) | Cloud-based biomedical data visualization system
+            url: https://hiplot.cn/
+            icon: fas fa-link
+            description: ""
+      - name: 竞赛
+        icon: fas fa-folder
+        path:
+          - 收藏夹栏
+          - 竞赛
+        groups:
+          - name: 刷题网站
+            icon: fas fa-folder
+            path:
+              - 收藏夹栏
+              - 竞赛
+              - 刷题网站
+            sites:
+              - name: 编程基础 0 到 1 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+                url: https://leetcode.cn/studyplan/programming-skills/
+                icon: fas fa-link
+                description: ""
+              - name: 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+                url: https://leetcode.cn/
+                icon: fas fa-link
+                description: ""
+              - name: PTA | 程序设计类实验辅助教学平台
+                url: https://pintia.cn/problem-sets/dashboard
+                icon: fas fa-link
+                description: ""
+          - name: 嘉立创-打板
+            icon: fas fa-folder
+            path:
+              - 收藏夹栏
+              - 竞赛
+              - 嘉立创-打板
+            sites:
+              - name: 立创商城
+                url: https://www.szlcsc.com/
+                icon: fas fa-link
+                description: ""
+              - name: STM32数字万用表 - 立创开源硬件平台
+                url: https://oshwhub.com/geekmwb/wan-yong-biao-_-kai-yuan
+                icon: fas fa-link
+                description: ""
+              - name: 立创开源硬件平台
+                url: https://oshwhub.com/
+                icon: fas fa-link
+                description: ""
+              - name: 嘉立创EDA(专业版)
+                url: https://pro.lceda.cn/editor#id=fc05334e791e49109ab216fee320da4d,tab=*fc1cf0329024402fbe6c7a3103d8f88c@fc05334e791e49109ab216fee320da4d|aee2ab12ec6d4f60aae12846647df09f@fc05334e791e49109ab216fee320da4d|!947dfe71ea6044c99ded1a7a161447c8(device)674cf10642074f4ea14c6abafaa412fc@17a3cab6c8af49ab999b57b308b4dd19
+                icon: fas fa-link
+                description: ""
+              - name: GitCode - 全球开发者的开源社区,开源代码托管平台
+                url: https://gitcode.com/gh_mirrors/po/PointPainting?utm_source=csdn_github_accelerator
+                icon: fas fa-link
+                description: ""
+          - name: 嵌入式比赛
+            icon: fas fa-folder
+            path:
+              - 收藏夹栏
+              - 竞赛
+              - 嵌入式比赛
+            sites:
+              - name: 免费商用字体
+                url: https://www.maoken.com/
+                icon: fas fa-link
+                description: ""
+        sites:
+          - name: 艺术字体在线生成_艺术字转换器_字体转换器_艺术字网
+            url: https://www.yishuzi.cn/
+            icon: fas fa-link
+            description: ""
+          - name: Examples — Matplotlib 3.9.2 documentation
+            url: https://matplotlib.org/stable/gallery/index.html
+            icon: fas fa-link
+            description: ""
+          - name: Examples - Apache ECharts
+            url: https://echarts.apache.org/examples/zh/index.html#chart-type-treemap
+            icon: fas fa-link
+            description: ""
+          - name: “赛链”
+            url: https://www.racelink.cn/cli
+            icon: fas fa-link
+            description: ""
+          - name: 论文写作
+            url: http://8xw9f9.checkmore.net/#/iw/intelligentWriting/0?lunwen=m05DLa
+            icon: fas fa-link
+            description: ""
+          - name: 代码随想录
+            url: https://www.programmercarl.com/
+            icon: fas fa-link
+            description: ""
+      - name: 学术
+        icon: fas fa-folder
+        path:
+          - 收藏夹栏
+          - 学术
+        sites:
+          - name: 通义阅读助手
+            url: https://tongyi.aliyun.com/read
+            icon: fas fa-link
+            description: ""
+          - name: DeepSeek
+            url: https://chat.deepseek.com/
+            icon: fas fa-link
+            description: ""
+          - name: wos
+            url: https://www.webofscience.com/wos/author/author-search
+            icon: fas fa-link
+            description: ""
+          - name: ioDraw
+            url: https://www.iodraw.com/
+            icon: fas fa-link
+            description: ""
+          - name: 多学术 Google 学术
+            url: https://scholar.chongbuluo.com/
+            icon: fas fa-link
+            description: ""
+          - name: 好用的google学术
+            url: https://scholar.nq69.top/
+            icon: fas fa-link
+            description: ""
+          - name: SimpleTex
+            url: https://www.simpletex.cn/
+            icon: fas fa-link
+            description: ""
+          - name: GitHub Proxy
+            url: https://ghproxy.link/
+            icon: fas fa-link
+            description: ""
+      - name: 代码
+        icon: fas fa-folder
+        path:
+          - 收藏夹栏
+          - 代码
+        sites:
+          - name: about:blank
+            url: about:blank
+            icon: fas fa-link
+            description: ""
+          - name: webvpn.whut.edu.cn
+            url: https://webvpn.whut.edu.cn/login
+            icon: fas fa-link
+            description: ""
+          - name: www.dxzy163.com
+            url: https://www.dxzy163.com/
+            icon: fas fa-link
+            description: ""
+          - name: PTA | 程序设计类实验辅助教学平台
+            url: https://pintia.cn/problem-sets/1708335187911622656/exam/problems/1708335256559792132?type=7&page=0
+            icon: fas fa-link
+            description: ""
+          - name: CSDN - 搜索
+            url: https://cn.bing.com/search?q=CSDN&form=ANNTH1&refig=6572f5ab780a45afb66c0c9034008a6e&pc=HCTS&sp=7&lq=0&qs=HS&sk=PRES1HS6&sc=10-0&cvid=6572f5ab780a45afb66c0c9034008a6e
+            icon: fas fa-link
+            description: ""
+          - name: 腾讯云 OrcaTerm
+            url: https://orcaterm.cloud.tencent.com/terminal?type=lighthouse&instanceId=lhins-nptz8fsz&region=ap-guangzhou&from=lh_console_login_btn
+            icon: fas fa-link
+            description: ""
+      - name: 武汉理工大学
+        icon: fas fa-folder
+        path:
+          - 收藏夹栏
+          - 武汉理工大学
+        groups:
+          - name: 学习
+            icon: fas fa-folder
+            path:
+              - 收藏夹栏
+              - 武汉理工大学
+              - 学习
+            sites:
+              - name: 模电-许菲
+                url: https://whut.ai-augmented.com/app/jx-web/mycourse/6246836216298243336/resource
+                icon: fas fa-link
+                description: ""
+              - name: CSDN
+                url: https://www.csdn.net/
+                icon: fas fa-link
+                description: ""
+              - name: 数电-HDL
+                url: https://hdlbits.01xz.net/wiki/7458
+                icon: fas fa-link
+                description: ""
+        sites:
+          - name: 武汉理工大学本科生院
+            url: http://jwc.whut.edu.cn/Web/Details?id=746&type=010202
+            icon: fas fa-link
+            description: ""
+          - name: MOOC
+            url: https://www.icourse163.org/
+            icon: fas fa-link
+            description: ""
+          - name: 清华社英语在线
+            url: https://www.tsinghuaelt.com/home
+            icon: fas fa-link
+            description: ""
+          - name: 管理信息
+            url: https://www.whutyiban.com/e/DoInfo/ListInfo.php?mid=1&ecmscheck=1
+            icon: fas fa-link
+            description: ""
+          - name: 电路实验
+            url: http://218.197.102.254/
+            icon: fas fa-link
+            description: ""
+          - name: 模电实验
+            url: http://218.197.103.209:8080/s/index
+            icon: fas fa-link
+            description: ""
+          - name: 超星
+            url: https://webvpn.whut.edu.cn/http/77726476706e69737468656265737421e7ff54886936695e6709c7af90542c2daa552ee449382a/portal
+            icon: fas fa-link
+            description: ""
+          - name: 物理实验
+            url: http://59.69.101.153/lab/Login.aspx?AspxAutoDetectCookieSupport=1
+            icon: fas fa-link
+            description: ""
+          - name: 选课系统
+            url: https://jwxk.whut.edu.cn/xsxk/profile/index.html
+            icon: fas fa-link
+            description: ""
+          - name: GinsMooc
+            url: https://ginnnnnn.top/mooc/course/1473132481
+            icon: fas fa-link
+            description: ""
+          - name: 新教务系统
+            url: https://jwxt.whut.edu.cn/jwapp/sys/homeapp/home/index.html?av=1735654069088&contextPath=/jwapp#/
+            icon: fas fa-link
+            description: ""
+          - name: 武汉理工大学综合信息系统
+            url: http://i.whut.edu.cn/
+            icon: fas fa-link
+            description: ""
+          - name: PPT
+            url: https://www.pptsupermarket.com/
+            icon: fas fa-link
+            description: ""
+          - name: 理工百事通
+            url: https://webvpn.whut.edu.cn/https/77726476706e69737468656265737421f9fc4f93307e6e59780d8db9d6562c38/s/AuzI1M/33e68f546278432f9eae3d4f42d70e32
+            icon: fas fa-link
+            description: ""
+          - name: 学校邮箱
+            url: https://webvpn.whut.edu.cn/http/77726476706e69737468656265737421fdf64890692760456a468ca88d1b203b/js6/main.jsp?sid=f0OAO3T240a93B4DS0u-ooMcbB5h7KCx&show_window=1&show_new=1&hl=zh_CN#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22AG2AzgDHI2ru-496WNbnaaqJ%22%2C%22fid%22%3A1%7D
+            icon: fas fa-link
+            description: ""
+          - name: ROS指南
+            url: https://index.ros.org/
+            icon: fas fa-link
+            description: ""
+          - name: WHEELTEC-轮趣
+            url: https://agent.dingtalk.com/copilot?code=Y7T731GO7O&channel
+            icon: fas fa-link
+            description: ""
+          - name: 谷歌学术
+            url: https://sc.panda985.com/index.html
+            icon: fas fa-link
+            description: ""
+          - name: 数据库
+            url: https://blog.csdn.net/qq_39027989/article/details/91589295
+            icon: fas fa-link
+            description: ""
+          - name: 信号实验
+            url: https://jxpt.whut.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=37932
+            icon: fas fa-link
+            description: ""
+          - name: 淘宝轮趣旗舰店
+            url: https://market.m.taobao.com/app/tb-chatting/chat-universal-page/pages/index/index.html?targetId=cntaobao%E8%BD%AE%E8%B6%A3%E6%97%97%E8%88%B0%E5%BA%97&orderId=2530232439935133551&spm=a212db.24065199#/
+            icon: fas fa-link
+            description: ""
+          - name: 论文查询-Letpub
+            url: https://www.letpub.com.cn/index.php?page=journalapp&view=search
+            icon: fas fa-link
+            description: ""
+          - name: 自动拨号器 | P1.自动拨号器 | 嘉立创EDA(专业版) - V2.2.39
+            url: https://pro.lceda.cn/editor#id=198e031120fd4fe4837dda75a36a849e,tab=fc1cf0329024402fbe6c7a3103d8f88c@fc05334e791e49109ab216fee320da4d|aee2ab12ec6d4f60aae12846647df09f@fc05334e791e49109ab216fee320da4d|*f171552120aa43ab84fbc14ef0d09a72@198e031120fd4fe4837dda75a36a849e|!947dfe71ea6044c99ded1a7a161447c8(device)674cf10642074f4ea14c6abafaa412fc@17a3cab6c8af49ab999b57b308b4dd19
+            icon: fas fa-link
+            description: ""
+          - name: 闲暇时研究
+            url: https://github.com/PaddlePaddle/FastDeploy/blob/develop/README_CN.md
+            icon: fab fa-github
+            description: ""
+          - name: 资料共享
+            url: https://home.haoli.site/pages/resource
+            icon: fas fa-link
+            description: ""
+          - name: 专利检索
+            url: https://pss-system.cponline.cnipa.gov.cn/conventionalSearch
+            icon: fas fa-link
+            description: ""
+          - name: 下单
+            url: https://member.jlc.com/?spm=PCB.Homepage.functionbar.1023
+            icon: fas fa-link
+            description: ""
+          - name: OpenHands-写代码
+            url: https://app.all-hands.dev/
+            icon: fas fa-link
+            description: ""
+          - name: 国创-全国大学生创业服务网
+            url: https://cy.ncss.cn/
+            icon: fas fa-link
+            description: ""
+          - name: AI工具 | AI工具箱
+            url: https://aitool.itclan.net/
+            icon: fas fa-link
+            description: ""
+          - name: 淘宝
+            url: https://i.taobao.com/my_itaobao?spm=a21bo.jianhua/a.1997525045.1.5af92a89ue5YUe
+            icon: fas fa-link
+            description: ""
+          - name: OpenSLAM.org
+            url: https://openslam-org.github.io/
+            icon: fab fa-github
+            description: ""
+          - name: 武汉理工大学信息学院欢迎您
+            url: http://wutinfo.whut.edu.cn/yjspy/dsjs/202502/t20250224_604698.shtml
+            icon: fas fa-link
+            description: ""
+          - name: (80 条消息) 快速在 Ubuntu 上配置 Clash - 知乎
+            url: https://zhuanlan.zhihu.com/p/1941423216645083321
+            icon: fas fa-link
+            description: ""
+          - name: image转换
+            url: https://www.waifu2x.net/
+            icon: fas fa-link
+            description: ""
+          - name: 计院报名平台
+            url: https://race.cst.whut.tech/
+            icon: fas fa-link
+            description: ""
+          - name: AI ChatGPT
+            url: https://chatgpt.com/?openaicom_referred=true
+            icon: fas fa-link
+            description: ""
+          - name: 首页 — iKuuu VPN
+            url: https://ikuuu.de/user##
+            icon: fas fa-link
+            description: ""
+      - name: 嵌入式
+        icon: fas fa-folder
+        path:
+          - 收藏夹栏
+          - 嵌入式
+        sites:
+          - name: 赛题要求.pdf
+            url: http://socoss.socchina.net/file/cacheFile/2025-3-7/a602b00a34394d448d94e5d5fcf973f9.pdf
+            icon: fas fa-link
+            description: ""
+          - name: 开发者论坛
+            url: https://developer.d-robotics.cc/forum
+            icon: fas fa-link
+            description: ""
+          - name: 地瓜开发者社区首页
+            url: https://developer.d-robotics.cc/
+            icon: fas fa-link
+            description: ""
+          - name: 课程中心
+            url: https://developer.d-robotics.cc/coursecenter
+            icon: fas fa-link
+            description: ""
+          - name: 地瓜机器人-哔哩哔哩视频
+            url: https://space.bilibili.com/437998606
+            icon: fas fa-link
+            description: ""
+          - name: 我的项目 - CRAIC中国机器人及人工智能大赛
+            url: https://craic.yuntop.com/#/myProject
+            icon: fas fa-link
+            description: ""
+          - name: 鱼香ROS机器人
+            url: https://fishros.com/
+            icon: fas fa-link
+            description: ""
+          - name: 主页 | 鱼香ROS
+            url: https://fishros.org.cn/forum
+            icon: fas fa-link
+            description: ""
+          - name: 【yolov5模型训练】
+            url: https://developer.d-robotics.cc/forumDetail/185446371330059463
+            icon: fas fa-link
+            description: ""
+          - name: 机器谱机器人开发资源分享
+            url: https://www.robotway.com/sr.jsp?skeyword=%E5%8F%8C%E8%8A%82%E5%B1%A5%E5%B8%A6%E5%BA%95%E7%9B%98&nSL=[]&moduleId=21026
+            icon: fas fa-link
+            description: ""
+          - name: 嵌入式芯片与系统设计竞赛
+            url: http://www.socchina.net/
+            icon: fas fa-link
+            description: ""
+    sites:
+      - name: 智谱清言
+        url: https://chatglm.cn/main/alltoolsdetail
+        icon: fas fa-link
+        description: ""
+      - name: 秘塔AI搜索
+        url: https://metaso.cn/
+        icon: fas fa-link
+        description: ""
+      - name: bilibili
+        url: https://www.bilibili.com/
+        icon: fas fa-link
+        description: ""
+      - name: 英语
+        url: https://www.youdao.com/result?word=syntax&lang=en
+        icon: fas fa-link
+        description: ""
+      - name: 智慧理工大
+        url: https://webvpn.whut.edu.cn/https/77726476706e69737468656265737421eaff4d9b237e7f586b1cc7a99c406d3678/tp_up/view?m=up#act=portal/viewhome
+        icon: fas fa-link
+        description: ""
+      - name: 豆包
+        url: https://www.doubao.com/chat/868304603433730
+        icon: fas fa-link
+        description: ""
+      - name: 【办公汇】
+        url: https://www.bgbgh.com/
+        icon: fas fa-link
+        description: ""
+      - name: thinkercom - Circuits
+        url: https://circuitverse.org/users/301488
+        icon: fas fa-link
+        description: ""
+      - name: 理工学堂助手
+        url: https://lgxt.zygame1314.site/
+        icon: fas fa-link
+        description: ""
+      - name: 数据集
+        url: https://www.selectdataset.com/
+        icon: fas fa-link
+        description: ""
+      - name: 奇珍
+        url: https://blog.zygame1314.site/article/steam-scammer-story
+        icon: fab fa-steam
+        description: ""
+      - name: 1.快速开始 | RDK DOC
+        url: https://developer.d-robotics.cc/rdk_doc/Quick_start
+        icon: fas fa-link
+        description: ""
+      - name: 资源中心
+        url: https://developer.d-robotics.cc/resource
+        icon: fas fa-link
+        description: ""
+      - name: 秘塔写作猫
+        url: https://www.xiezuocat.com/
+        icon: fas fa-link
+        description: ""
+      - name: Google
+        url: https://www.google.cn/
+        icon: fas fa-link
+        description: ""
+      - name: Zotero 插件商店 | Zotero 中文社区
+        url: https://zotero-chinese.github.io/plugins/
+        icon: fab fa-github
+        description: ""
