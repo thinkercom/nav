@@ -48,9 +48,9 @@ categories:
         icon: fas fa-brain
         description: 中文大模型AI助手
       - name: 好用的google学术
-            url: https://scholar.nq69.top/
-            icon: fas fa-link
-            description: 论文查找
+        url: https://scholar.nq69.top/
+        icon: fas fa-link
+        description: 论文查找
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
