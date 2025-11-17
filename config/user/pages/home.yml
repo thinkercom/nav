@@ -13,7 +13,7 @@ categories:
     sites:
       - name: 资源访问中心
         url: https://webvpn.whut.edu.cn/
-        icon: far fa-network-wired
+        icon: fas fa-link
         description: 武汉理工大学资源访问门户
       - name: 小雅
         url: https://whut.ai-augmented.com/app/jx-web/mycourse
@@ -41,15 +41,27 @@ categories:
         description: 全球最大的技术社区
       - name: 通义千问
         url: https://www.tongyi.com/
-        icon: fas fa-book
+        icon: fas fa-link
         description: AI助手
       - name: 智谱清言
         url: https://chatglm.cn/main/alltoolsdetail?lang=zh
         icon: fas fa-brain
         description: 中文大模型AI助手
+      - name: 好用的google学术
+            url: https://scholar.nq69.top/
+            icon: fas fa-link
+            description: 论文查找
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
+      - name: KITTI
+        url: https://www.cvlibs.net/datasets/kitti/
+        icon: fas fa-link
+        description: ""
+      - name: 菜鸟教程
+        url: https://www.runoob.com/
+        icon: fas fa-link
+        description: ""
       - name: 知乎
         url: https://www.zhihu.com
         icon: fas fa-question-circle
