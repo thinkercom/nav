@@ -11,26 +11,18 @@ categories:
   - name: 常用网站
     icon: fas fa-star # 分类图标（Font Awesome）
     sites:
-      # - name: Linux.do            # 站点名称
-      #   url: https://linux.do/    # http/https URL（favicon 模式将尝试加载站点图标）
-      #   icon: fab fa-linux        # 手动图标：manual 模式使用；favicon 模式下作为回退
-      #   description: 新的理想型社区 # 站点描述
-      # - name: Google
-      #   url: https://www.google.com
-      #   icon: fab fa-google
-      #   description: 全球最大的搜索引擎
-      - name:资源访问中心
-        url:https://webvpn.whut.edu.cn/
-        icon:fas fa-network-wired
-        description:武汉理工大学资源访问门户
-      - name:小雅
-        url:https://whut.ai-augmented.com/app/jx-web/mycourse
-        icon:fas fa-book-open
-        description:武汉理工大学在线学习平台
-      - name:MOOC
-        url:https://www.icourse163.org/home.htm?userId=1555566536#/home/course
-        icon:fas fa-book-reader
-        description:中国大学慕课平台
+      - name: 资源访问中心
+        url: https://webvpn.whut.edu.cn/
+        icon: fas fa-network-wired
+        description: 武汉理工大学资源访问门户
+      - name: 小雅
+        url: https://whut.ai-augmented.com/app/jx-web/mycourse
+        icon: fas fa-book-open
+        description: 武汉理工大学在线学习平台
+      - name: MOOC
+        url: https://www.icourse163.org/home.htm?userId=1555566536#/home/course
+        icon: fas fa-book-reader
+        description: 中国大学慕课平台
       - name: 哔哩哔哩
         url: https://www.bilibili.com
         icon: fas fa-play-circle
@@ -43,7 +35,7 @@ categories:
         url: https://chat.openai.com
         icon: fas fa-robot
         description: AI智能助手
-      - name:CSDN
+      - name: CSDN
         url: https://www.csdn.net
         icon: fab fa-csdn
         description: 全球最大的技术社区
@@ -51,27 +43,10 @@ categories:
         url: https://www.tongyi.com/
         icon: fas fa-book
         description: AI助手
-      - name:智谱清言
+      - name: 智谱清言
         url: https://chatglm.cn/main/alltoolsdetail?lang=zh
         icon: fas fa-brain
         description: 中文大模型AI助手
-      # - name: Stack Overflow
-      #   url: https://stackoverflow.com
-      #   icon: fab fa-stack-overflow
-      #   description: 程序员问答社区
-      
-      # - name: YouTube
-      #   url: https://www.youtube.com
-      #   icon: fab fa-youtube
-      #   description: 视频分享平台
-      # - name: Twitter
-      #   url: https://twitter.com
-      #   icon: fab fa-twitter
-      #   description: 社交媒体平台
-      # - name: Reddit
-      #   url: https://www.reddit.com
-      #   icon: fab fa-reddit
-      #   description: 社区讨论平台
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
