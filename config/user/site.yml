@@ -53,6 +53,9 @@ social:
 
 # 导航配置
 navigation:
+  - name: 小窝
+    icon: fas fa-home
+    url: https://thinkercom.github.io
   - name: 首页        # 菜单名称
     icon: fas fa-home  # Font Awesome 图标类
     id: home           # 页面标识符（唯一，需与 pages/home.yml 对应）
